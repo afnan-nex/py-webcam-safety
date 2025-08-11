@@ -20,21 +20,13 @@
 ## **📂 Save Location**
 
 By default, images are saved in:
-
-bash
-
-CopyEdit
-
+```
 D:/webcam_captures
-
+```
 You can change this in the code by modifying:
-
-python
-
-CopyEdit
-
+```
 save_directory = "D:/webcam_captures"
-
+```
 ## **🛠 Prerequisites**
 
 Make sure you have **Python 3.7+** installed.  
@@ -49,20 +41,14 @@ pip install opencv-python pystray pillow
 ## **▶ Usage**
 
 1.  Clone this repository:  
-    
-
-bash
-
-CopyEdit
-
-git clone https://github.com/yourusername/py-webcam-safety.git
-
+```
+git clone https://github.com/afnan-nex/py-webcam-safety
 cd py-webcam-safety
-
-1.  Run the script:  
-
+```
+1.  Run the script:
+```
 python webcam_safety.py
-
+```
 1.  The console window will minimize, and a tray icon will appear.  
     
 2.  To stop, right-click the tray icon and select **Quit**.  
