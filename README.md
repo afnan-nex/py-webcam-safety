@@ -31,13 +31,9 @@ save_directory = "D:/webcam_captures"
 
 Make sure you have **Python 3.7+** installed.  
 Install the required dependencies:
-
-bash
-
-CopyEdit
-
+```
 pip install opencv-python pystray pillow
-
+```
 ## **▶ Usage**
 
 1.  Clone this repository:  
