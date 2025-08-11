@@ -1,4 +1,4 @@
-# **py-webcam-safety**
+# **Py-webcam-safety**
 
 **py-webcam-safety** is a Python-based tool that automatically captures images from your webcam at regular intervals and saves them locally. It’s designed for personal security, workspace monitoring, and other ethical purposes.
 
