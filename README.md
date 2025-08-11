@@ -66,4 +66,4 @@ python webcam_safety.py
 
 ## **📜 License**
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/afnan-nex/py-webcam-safety/blob/main/LICENSE).
