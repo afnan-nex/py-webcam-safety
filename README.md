@@ -34,6 +34,11 @@ Install the required dependencies:
 ```
 pip install opencv-python pystray pillow
 ```
+
+You can install all required packages at once:
+```
+pip install -r requirements.txt
+```
 ## **▶ Usage**
 
 1.  Clone this repository:  
